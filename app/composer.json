@@ -1,0 +1,12 @@
+{
+    "name": "benit/ldap",
+    "require": {
+        "symfony/ldap": "^5.2",
+        "fakerphp/faker": "^1.13",
+        "symfony/string": "^5.2",
+        "symfony/translation-contracts": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
