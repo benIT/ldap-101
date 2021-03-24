@@ -16,7 +16,8 @@ A repo to get started with [openLDAP](https://en.wikipedia.org/wiki/OpenLDAP).
     
 #### Load data fixtures
 
-    docker exec ldap-101_php_1 php load.php   
+    docker exec openldap-101_php_1 composer install
+    docker exec openldap-101_php_1 php load.php
     
 ### GUI
 

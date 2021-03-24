@@ -15,4 +15,4 @@ $loader = new LdapLoader(
     Factory::create('fr_FR'),
 );
 
-$loader->load(500);
+$loader->load(10);

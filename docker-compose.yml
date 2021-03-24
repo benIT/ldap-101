@@ -1,7 +1,12 @@
 version: "3"
 services:
   ldap:
-    build: openldap
+    build:
+      context: openldap
+      args:
+        - http_proxy
+        - https_proxy
+        - no_proxy
     domainname: "mycompany.com"
     hostname: "mycompany.com"
     environment:
@@ -24,11 +29,20 @@ services:
     depends_on:
       - ldap
   php:
-    build: php
+    build:
+      context: php
+      args:
+        - http_proxy
+        - https_proxy
+        - no_proxy
     working_dir: /app
     links:
       - ldap:ldap
     depends_on:
       - ldap
+    environment:
+      - http_proxy
+      - https_proxy
+      - no_proxy
     volumes:
       - ./app:/app
