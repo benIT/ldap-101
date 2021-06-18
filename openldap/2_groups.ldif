@@ -1,0 +1,68 @@
+dn: ou=groups, dc=mycompany,dc=com
+changetype: add
+ou: groups
+objectclass: organizationalunit
+
+dn: ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+ou: apps
+objectclass: organizationalunit
+
+#######################################################################################################
+#app1
+#######################################################################################################
+dn: ou=app1 ,ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+ou: app1
+objectclass: organizationalunit
+
+dn: cn=app1_superadmin, ou=app1 ,ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+cn: app1_superadmin
+objectclass: groupOfUniqueNames
+objectclass: top
+uniqueMember:
+
+dn: cn=app1_admin, ou=app1 ,ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+cn: app1_admin
+objectclass: groupOfUniqueNames
+objectclass: top
+uniqueMember:
+
+dn: cn=app1_manager, ou=app1 ,ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+cn: app1_manager
+objectclass: groupOfUniqueNames
+objectclass: top
+uniqueMember:
+
+#######################################################################################################
+#app2
+#######################################################################################################
+
+dn: ou=app2 ,ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+ou: app2
+objectclass: organizationalunit
+
+dn: cn=app2_admin, ou=app2 ,ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+cn: app2_admin
+objectclass: groupOfUniqueNames
+objectclass: top
+uniqueMember:
+
+dn: cn=app2_reporter, ou=app2 ,ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+cn: app2_reporter
+objectclass: groupOfUniqueNames
+objectclass: top
+uniqueMember:
+
+dn: cn=app2_auditor, ou=app2 ,ou=apps, ou=groups, dc=mycompany,dc=com
+changetype: add
+cn: app2_auditor
+objectclass: groupOfUniqueNames
+objectclass: top
+uniqueMember:

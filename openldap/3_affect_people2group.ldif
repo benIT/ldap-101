@@ -1,0 +1,87 @@
+#######################################################################################################
+#app1
+#######################################################################################################
+dn: cn=app1_admin,ou=app1,ou=apps,ou=groups,dc=mycompany,dc=com
+changetype: modify
+replace: uniqueMember
+uniqueMember: uid=anderlecht_001,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=anderlecht_002,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=anderlecht_003,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=anderlecht_004,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=anderlecht_005,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_001,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_002,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_003,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_004,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_005,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+
+dn: cn=app1_manager,ou=app1,ou=apps,ou=groups,dc=mycompany,dc=com
+changetype: modify
+replace: uniqueMember
+uniqueMember: uid=brussels_001,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=brussels_002,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=brussels_003,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=brussels_004,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=brussels_005,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_001,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_002,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_003,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_004,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_005,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+
+
+dn: cn=app1_superadmin,ou=app1,ou=apps,ou=groups,dc=mycompany,dc=com
+changetype: modify
+replace: uniqueMember
+uniqueMember: uid=ghent_001,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=ghent_002,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=ghent_003,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=ghent_004,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=ghent_005,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_001,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_002,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_003,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_004,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_005,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+
+#######################################################################################################
+#app2
+#######################################################################################################
+
+dn: cn=app2_admin,ou=app2,ou=apps,ou=groups,dc=mycompany,dc=com
+changetype: modify
+replace: uniqueMember
+uniqueMember: uid=clermont-ferrand_001,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_002,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_003,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_004,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_005,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+
+dn: cn=app2_auditor,ou=app2,ou=apps,ou=groups,dc=mycompany,dc=com
+changetype: modify
+replace: uniqueMember
+uniqueMember: uid=aurillac_001,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=aurillac_002,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=aurillac_003,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=aurillac_004,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=aurillac_005,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_001,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_002,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_003,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_004,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_005,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+
+
+dn: cn=app2_reporter,ou=app2,ou=apps,ou=groups,dc=mycompany,dc=com
+changetype: modify
+replace: uniqueMember
+uniqueMember: uid=paris_001,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=paris_002,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=paris_003,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=paris_004,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=paris_005,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_001,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_002,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_003,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_004,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+uniqueMember: uid=clermont-ferrand_005,ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com

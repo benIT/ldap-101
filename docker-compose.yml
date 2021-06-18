@@ -10,7 +10,7 @@ services:
     domainname: "mycompany.com"
     hostname: "mycompany.com"
     environment:
-#      LDAP_SEED_INTERNAL_LDIF_PATH: "/data/data-500-users.ldif"# env var set in openldap/Dockerfile
+#      LDAP_SEED_INTERNAL_LDIF_PATH: "/data/data.ldif"# env var set in openldap/Dockerfile
       LDAP_DOMAIN: mycompany.com
       LDAP_ORGANISATION: "My company"
       LDAP_ADMIN_PASSWORD: admin #login DN: cn=admin,dc=mycompany,dc=com

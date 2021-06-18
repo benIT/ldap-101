@@ -1,0 +1,2614 @@
+dn: ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+
+dn: ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Belgium
+
+dn: ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Anderlecht
+
+dn: uid=anderlecht_001,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: adrien dos-santos
+mail: adrien.dos-santos@mycompany.com
+objectclass: inetOrgPerson
+sn: adrien
+uid: anderlecht_001
+userpassword: 123
+
+dn: uid=anderlecht_002,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: xavier laroche
+mail: xavier.laroche@mycompany.com
+objectclass: inetOrgPerson
+sn: xavier
+uid: anderlecht_002
+userpassword: 123
+
+dn: uid=anderlecht_003,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: alphonse bazin
+mail: alphonse.bazin@mycompany.com
+objectclass: inetOrgPerson
+sn: alphonse
+uid: anderlecht_003
+userpassword: 123
+
+dn: uid=anderlecht_004,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: diane faure
+mail: diane.faure@mycompany.com
+objectclass: inetOrgPerson
+sn: diane
+uid: anderlecht_004
+userpassword: 123
+
+dn: uid=anderlecht_005,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: michele gauthier
+mail: michele.gauthier@mycompany.com
+objectclass: inetOrgPerson
+sn: michele
+uid: anderlecht_005
+userpassword: 123
+
+dn: uid=anderlecht_006,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: olivier vallet
+mail: olivier.vallet@mycompany.com
+objectclass: inetOrgPerson
+sn: olivier
+uid: anderlecht_006
+userpassword: 123
+
+dn: uid=anderlecht_007,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: lucas petitjean
+mail: lucas.petitjean@mycompany.com
+objectclass: inetOrgPerson
+sn: lucas
+uid: anderlecht_007
+userpassword: 123
+
+dn: uid=anderlecht_008,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: colette arnaud
+mail: colette.arnaud@mycompany.com
+objectclass: inetOrgPerson
+sn: colette
+uid: anderlecht_008
+userpassword: 123
+
+dn: uid=anderlecht_009,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: helene bouchet
+mail: helene.bouchet@mycompany.com
+objectclass: inetOrgPerson
+sn: helene
+uid: anderlecht_009
+userpassword: 123
+
+dn: uid=anderlecht_010,ou=Anderlecht,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: eric leger
+mail: eric.leger@mycompany.com
+objectclass: inetOrgPerson
+sn: eric
+uid: anderlecht_010
+userpassword: 123
+
+dn: ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Antwerp
+
+dn: uid=antwerp_001,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: robert vasseur
+mail: robert.vasseur@mycompany.com
+objectclass: inetOrgPerson
+sn: robert
+uid: antwerp_001
+userpassword: 123
+
+dn: uid=antwerp_002,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: laurent lelievre
+mail: laurent.lelievre@mycompany.com
+objectclass: inetOrgPerson
+sn: laurent
+uid: antwerp_002
+userpassword: 123
+
+dn: uid=antwerp_003,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: valentine munoz
+mail: valentine.munoz@mycompany.com
+objectclass: inetOrgPerson
+sn: valentine
+uid: antwerp_003
+userpassword: 123
+
+dn: uid=antwerp_004,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: marcel merle
+mail: marcel.merle@mycompany.com
+objectclass: inetOrgPerson
+sn: marcel
+uid: antwerp_004
+userpassword: 123
+
+dn: uid=antwerp_005,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: isaac mahe
+mail: isaac.mahe@mycompany.com
+objectclass: inetOrgPerson
+sn: isaac
+uid: antwerp_005
+userpassword: 123
+
+dn: uid=antwerp_006,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: pierre roux
+mail: pierre.roux@mycompany.com
+objectclass: inetOrgPerson
+sn: pierre
+uid: antwerp_006
+userpassword: 123
+
+dn: uid=antwerp_007,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: henriette gautier
+mail: henriette.gautier@mycompany.com
+objectclass: inetOrgPerson
+sn: henriette
+uid: antwerp_007
+userpassword: 123
+
+dn: uid=antwerp_008,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: dominique rolland
+mail: dominique.rolland@mycompany.com
+objectclass: inetOrgPerson
+sn: dominique
+uid: antwerp_008
+userpassword: 123
+
+dn: uid=antwerp_009,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: oceane cordier
+mail: oceane.cordier@mycompany.com
+objectclass: inetOrgPerson
+sn: oceane
+uid: antwerp_009
+userpassword: 123
+
+dn: uid=antwerp_010,ou=Antwerp,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: martin cordier
+mail: martin.cordier@mycompany.com
+objectclass: inetOrgPerson
+sn: martin
+uid: antwerp_010
+userpassword: 123
+
+dn: ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Bruges
+
+dn: uid=bruges_001,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: chantal goncalves
+mail: chantal.goncalves@mycompany.com
+objectclass: inetOrgPerson
+sn: chantal
+uid: bruges_001
+userpassword: 123
+
+dn: uid=bruges_002,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: veronique chretien
+mail: veronique.chretien@mycompany.com
+objectclass: inetOrgPerson
+sn: veronique
+uid: bruges_002
+userpassword: 123
+
+dn: uid=bruges_003,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: antoine moulin
+mail: antoine.moulin@mycompany.com
+objectclass: inetOrgPerson
+sn: antoine
+uid: bruges_003
+userpassword: 123
+
+dn: uid=bruges_004,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: william rodriguez
+mail: william.rodriguez@mycompany.com
+objectclass: inetOrgPerson
+sn: william
+uid: bruges_004
+userpassword: 123
+
+dn: uid=bruges_005,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: daniel riviere
+mail: daniel.riviere@mycompany.com
+objectclass: inetOrgPerson
+sn: daniel
+uid: bruges_005
+userpassword: 123
+
+dn: uid=bruges_006,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: yves brunet
+mail: yves.brunet@mycompany.com
+objectclass: inetOrgPerson
+sn: yves
+uid: bruges_006
+userpassword: 123
+
+dn: uid=bruges_007,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: aime courtois
+mail: aime.courtois@mycompany.com
+objectclass: inetOrgPerson
+sn: aime
+uid: bruges_007
+userpassword: 123
+
+dn: uid=bruges_008,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: susanne laporte
+mail: susanne.laporte@mycompany.com
+objectclass: inetOrgPerson
+sn: susanne
+uid: bruges_008
+userpassword: 123
+
+dn: uid=bruges_009,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: bertrand menard
+mail: bertrand.menard@mycompany.com
+objectclass: inetOrgPerson
+sn: bertrand
+uid: bruges_009
+userpassword: 123
+
+dn: uid=bruges_010,ou=Bruges,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: veronique gilbert
+mail: veronique.gilbert@mycompany.com
+objectclass: inetOrgPerson
+sn: veronique
+uid: bruges_010
+userpassword: 123
+
+dn: ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Brussels
+
+dn: uid=brussels_001,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: christophe aubert
+mail: christophe.aubert@mycompany.com
+objectclass: inetOrgPerson
+sn: christophe
+uid: brussels_001
+userpassword: 123
+
+dn: uid=brussels_002,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: clemence durand
+mail: clemence.durand@mycompany.com
+objectclass: inetOrgPerson
+sn: clemence
+uid: brussels_002
+userpassword: 123
+
+dn: uid=brussels_003,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: olivier thierry
+mail: olivier.thierry@mycompany.com
+objectclass: inetOrgPerson
+sn: olivier
+uid: brussels_003
+userpassword: 123
+
+dn: uid=brussels_004,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: brigitte vidal
+mail: brigitte.vidal@mycompany.com
+objectclass: inetOrgPerson
+sn: brigitte
+uid: brussels_004
+userpassword: 123
+
+dn: uid=brussels_005,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: andre laporte
+mail: andre.laporte@mycompany.com
+objectclass: inetOrgPerson
+sn: andre
+uid: brussels_005
+userpassword: 123
+
+dn: uid=brussels_006,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: julien barbier
+mail: julien.barbier@mycompany.com
+objectclass: inetOrgPerson
+sn: julien
+uid: brussels_006
+userpassword: 123
+
+dn: uid=brussels_007,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: julie lefevre
+mail: julie.lefevre@mycompany.com
+objectclass: inetOrgPerson
+sn: julie
+uid: brussels_007
+userpassword: 123
+
+dn: uid=brussels_008,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: tristan lopes
+mail: tristan.lopes@mycompany.com
+objectclass: inetOrgPerson
+sn: tristan
+uid: brussels_008
+userpassword: 123
+
+dn: uid=brussels_009,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: adele roger
+mail: adele.roger@mycompany.com
+objectclass: inetOrgPerson
+sn: adele
+uid: brussels_009
+userpassword: 123
+
+dn: uid=brussels_010,ou=Brussels,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: daniel seguin
+mail: daniel.seguin@mycompany.com
+objectclass: inetOrgPerson
+sn: daniel
+uid: brussels_010
+userpassword: 123
+
+dn: ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Charleroi
+
+dn: uid=charleroi_001,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: colette samson
+mail: colette.samson@mycompany.com
+objectclass: inetOrgPerson
+sn: colette
+uid: charleroi_001
+userpassword: 123
+
+dn: uid=charleroi_002,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: anne gilbert
+mail: anne.gilbert@mycompany.com
+objectclass: inetOrgPerson
+sn: anne
+uid: charleroi_002
+userpassword: 123
+
+dn: uid=charleroi_003,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: patrick barbe
+mail: patrick.barbe@mycompany.com
+objectclass: inetOrgPerson
+sn: patrick
+uid: charleroi_003
+userpassword: 123
+
+dn: uid=charleroi_004,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: denise morel
+mail: denise.morel@mycompany.com
+objectclass: inetOrgPerson
+sn: denise
+uid: charleroi_004
+userpassword: 123
+
+dn: uid=charleroi_005,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: lucas francois
+mail: lucas.francois@mycompany.com
+objectclass: inetOrgPerson
+sn: lucas
+uid: charleroi_005
+userpassword: 123
+
+dn: uid=charleroi_006,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: victor garnier
+mail: victor.garnier@mycompany.com
+objectclass: inetOrgPerson
+sn: victor
+uid: charleroi_006
+userpassword: 123
+
+dn: uid=charleroi_007,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: marc goncalves
+mail: marc.goncalves@mycompany.com
+objectclass: inetOrgPerson
+sn: marc
+uid: charleroi_007
+userpassword: 123
+
+dn: uid=charleroi_008,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: edouard guyon
+mail: edouard.guyon@mycompany.com
+objectclass: inetOrgPerson
+sn: edouard
+uid: charleroi_008
+userpassword: 123
+
+dn: uid=charleroi_009,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: remy blondel
+mail: remy.blondel@mycompany.com
+objectclass: inetOrgPerson
+sn: remy
+uid: charleroi_009
+userpassword: 123
+
+dn: uid=charleroi_010,ou=Charleroi,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: noemi barbier
+mail: noemi.barbier@mycompany.com
+objectclass: inetOrgPerson
+sn: noemi
+uid: charleroi_010
+userpassword: 123
+
+dn: ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Ghent
+
+dn: uid=ghent_001,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: claudine seguin
+mail: claudine.seguin@mycompany.com
+objectclass: inetOrgPerson
+sn: claudine
+uid: ghent_001
+userpassword: 123
+
+dn: uid=ghent_002,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: marcelle pires
+mail: marcelle.pires@mycompany.com
+objectclass: inetOrgPerson
+sn: marcelle
+uid: ghent_002
+userpassword: 123
+
+dn: uid=ghent_003,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: adelaide laurent
+mail: adelaide.laurent@mycompany.com
+objectclass: inetOrgPerson
+sn: adelaide
+uid: ghent_003
+userpassword: 123
+
+dn: uid=ghent_004,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: hugues bigot
+mail: hugues.bigot@mycompany.com
+objectclass: inetOrgPerson
+sn: hugues
+uid: ghent_004
+userpassword: 123
+
+dn: uid=ghent_005,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: nath giraud
+mail: nath.giraud@mycompany.com
+objectclass: inetOrgPerson
+sn: nath
+uid: ghent_005
+userpassword: 123
+
+dn: uid=ghent_006,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: charles vaillant
+mail: charles.vaillant@mycompany.com
+objectclass: inetOrgPerson
+sn: charles
+uid: ghent_006
+userpassword: 123
+
+dn: uid=ghent_007,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: dominique mendes
+mail: dominique.mendes@mycompany.com
+objectclass: inetOrgPerson
+sn: dominique
+uid: ghent_007
+userpassword: 123
+
+dn: uid=ghent_008,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: robert goncalves
+mail: robert.goncalves@mycompany.com
+objectclass: inetOrgPerson
+sn: robert
+uid: ghent_008
+userpassword: 123
+
+dn: uid=ghent_009,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: gerard chauveau
+mail: gerard.chauveau@mycompany.com
+objectclass: inetOrgPerson
+sn: gerard
+uid: ghent_009
+userpassword: 123
+
+dn: uid=ghent_010,ou=Ghent,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: maggie berger
+mail: maggie.berger@mycompany.com
+objectclass: inetOrgPerson
+sn: maggie
+uid: ghent_010
+userpassword: 123
+
+dn: ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Leuven
+
+dn: uid=leuven_001,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: jean barbier
+mail: jean.barbier@mycompany.com
+objectclass: inetOrgPerson
+sn: jean
+uid: leuven_001
+userpassword: 123
+
+dn: uid=leuven_002,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: raymond da-costa
+mail: raymond.da-costa@mycompany.com
+objectclass: inetOrgPerson
+sn: raymond
+uid: leuven_002
+userpassword: 123
+
+dn: uid=leuven_003,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: cecile boulay
+mail: cecile.boulay@mycompany.com
+objectclass: inetOrgPerson
+sn: cecile
+uid: leuven_003
+userpassword: 123
+
+dn: uid=leuven_004,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: danielle gregoire
+mail: danielle.gregoire@mycompany.com
+objectclass: inetOrgPerson
+sn: danielle
+uid: leuven_004
+userpassword: 123
+
+dn: uid=leuven_005,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: nathalie gautier
+mail: nathalie.gautier@mycompany.com
+objectclass: inetOrgPerson
+sn: nathalie
+uid: leuven_005
+userpassword: 123
+
+dn: uid=leuven_006,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: paul mallet
+mail: paul.mallet@mycompany.com
+objectclass: inetOrgPerson
+sn: paul
+uid: leuven_006
+userpassword: 123
+
+dn: uid=leuven_007,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: alain coulon
+mail: alain.coulon@mycompany.com
+objectclass: inetOrgPerson
+sn: alain
+uid: leuven_007
+userpassword: 123
+
+dn: uid=leuven_008,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: dominique thierry
+mail: dominique.thierry@mycompany.com
+objectclass: inetOrgPerson
+sn: dominique
+uid: leuven_008
+userpassword: 123
+
+dn: uid=leuven_009,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: gregoire collet
+mail: gregoire.collet@mycompany.com
+objectclass: inetOrgPerson
+sn: gregoire
+uid: leuven_009
+userpassword: 123
+
+dn: uid=leuven_010,ou=Leuven,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: jeanne delaunay
+mail: jeanne.delaunay@mycompany.com
+objectclass: inetOrgPerson
+sn: jeanne
+uid: leuven_010
+userpassword: 123
+
+dn:: b3U9TGnDqGdlLG91PUJlbGdpdW0sb3U9UGVvcGxlLGRjPW15Y29tcGFueSxkYz1jb20=
+objectclass: organizationalUnit
+ou: People
+ou:: TGnDqGdl
+
+dn:: dWlkPWxpZWdlXzAwMSxvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: therese pasquier
+mail: therese.pasquier@mycompany.com
+objectclass: inetOrgPerson
+sn: therese
+uid: liege_001
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAwMixvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: etienne ledoux
+mail: etienne.ledoux@mycompany.com
+objectclass: inetOrgPerson
+sn: etienne
+uid: liege_002
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAwMyxvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: aurore guyon
+mail: aurore.guyon@mycompany.com
+objectclass: inetOrgPerson
+sn: aurore
+uid: liege_003
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAwNCxvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: corinne le-goff
+mail: corinne.le-goff@mycompany.com
+objectclass: inetOrgPerson
+sn: corinne
+uid: liege_004
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAwNSxvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: louis blanchard
+mail: louis.blanchard@mycompany.com
+objectclass: inetOrgPerson
+sn: louis
+uid: liege_005
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAwNixvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: nathalie le-gall
+mail: nathalie.le-gall@mycompany.com
+objectclass: inetOrgPerson
+sn: nathalie
+uid: liege_006
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAwNyxvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: matthieu carre
+mail: matthieu.carre@mycompany.com
+objectclass: inetOrgPerson
+sn: matthieu
+uid: liege_007
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAwOCxvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: claudine leclercq
+mail: claudine.leclercq@mycompany.com
+objectclass: inetOrgPerson
+sn: claudine
+uid: liege_008
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAwOSxvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: marc riviere
+mail: marc.riviere@mycompany.com
+objectclass: inetOrgPerson
+sn: marc
+uid: liege_009
+userpassword: 123
+
+dn:: dWlkPWxpZWdlXzAxMCxvdT1MacOoZ2Usb3U9QmVsZ2l1bSxvdT1QZW9wbGUsZGM9bXljb21
+ wYW55LGRjPWNvbQ==
+cn: suzanne gaillard
+mail: suzanne.gaillard@mycompany.com
+objectclass: inetOrgPerson
+sn: suzanne
+uid: liege_010
+userpassword: 123
+
+dn: ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Namur
+
+dn: uid=namur_001,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: honore godard
+mail: honore.godard@mycompany.com
+objectclass: inetOrgPerson
+sn: honore
+uid: namur_001
+userpassword: 123
+
+dn: uid=namur_002,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: mathilde bouvier
+mail: mathilde.bouvier@mycompany.com
+objectclass: inetOrgPerson
+sn: mathilde
+uid: namur_002
+userpassword: 123
+
+dn: uid=namur_003,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: alfred fischer
+mail: alfred.fischer@mycompany.com
+objectclass: inetOrgPerson
+sn: alfred
+uid: namur_003
+userpassword: 123
+
+dn: uid=namur_004,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: genevieve guichard
+mail: genevieve.guichard@mycompany.com
+objectclass: inetOrgPerson
+sn: genevieve
+uid: namur_004
+userpassword: 123
+
+dn: uid=namur_005,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: alexandria boutin
+mail: alexandria.boutin@mycompany.com
+objectclass: inetOrgPerson
+sn: alexandria
+uid: namur_005
+userpassword: 123
+
+dn: uid=namur_006,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: michelle raymond
+mail: michelle.raymond@mycompany.com
+objectclass: inetOrgPerson
+sn: michelle
+uid: namur_006
+userpassword: 123
+
+dn: uid=namur_007,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: simone marques
+mail: simone.marques@mycompany.com
+objectclass: inetOrgPerson
+sn: simone
+uid: namur_007
+userpassword: 123
+
+dn: uid=namur_008,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: eleonore meyer
+mail: eleonore.meyer@mycompany.com
+objectclass: inetOrgPerson
+sn: eleonore
+uid: namur_008
+userpassword: 123
+
+dn: uid=namur_009,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: gerard georges
+mail: gerard.georges@mycompany.com
+objectclass: inetOrgPerson
+sn: gerard
+uid: namur_009
+userpassword: 123
+
+dn: uid=namur_010,ou=Namur,ou=Belgium,ou=People,dc=mycompany,dc=com
+cn: manon laporte
+mail: manon.laporte@mycompany.com
+objectclass: inetOrgPerson
+sn: manon
+uid: namur_010
+userpassword: 123
+
+dn: ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Schaerbeek
+
+dn: uid=schaerbeek_001,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: timothee delaunay
+mail: timothee.delaunay@mycompany.com
+objectclass: inetOrgPerson
+sn: timothee
+uid: schaerbeek_001
+userpassword: 123
+
+dn: uid=schaerbeek_002,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: vincent auger
+mail: vincent.auger@mycompany.com
+objectclass: inetOrgPerson
+sn: vincent
+uid: schaerbeek_002
+userpassword: 123
+
+dn: uid=schaerbeek_003,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: luc gilbert
+mail: luc.gilbert@mycompany.com
+objectclass: inetOrgPerson
+sn: luc
+uid: schaerbeek_003
+userpassword: 123
+
+dn: uid=schaerbeek_004,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: alphonse dumas
+mail: alphonse.dumas@mycompany.com
+objectclass: inetOrgPerson
+sn: alphonse
+uid: schaerbeek_004
+userpassword: 123
+
+dn: uid=schaerbeek_005,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: theodore turpin
+mail: theodore.turpin@mycompany.com
+objectclass: inetOrgPerson
+sn: theodore
+uid: schaerbeek_005
+userpassword: 123
+
+dn: uid=schaerbeek_006,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: sylvie descamps
+mail: sylvie.descamps@mycompany.com
+objectclass: inetOrgPerson
+sn: sylvie
+uid: schaerbeek_006
+userpassword: 123
+
+dn: uid=schaerbeek_007,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: juliette hernandez
+mail: juliette.hernandez@mycompany.com
+objectclass: inetOrgPerson
+sn: juliette
+uid: schaerbeek_007
+userpassword: 123
+
+dn: uid=schaerbeek_008,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: josephine rodriguez
+mail: josephine.rodriguez@mycompany.com
+objectclass: inetOrgPerson
+sn: josephine
+uid: schaerbeek_008
+userpassword: 123
+
+dn: uid=schaerbeek_009,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: nicole louis
+mail: nicole.louis@mycompany.com
+objectclass: inetOrgPerson
+sn: nicole
+uid: schaerbeek_009
+userpassword: 123
+
+dn: uid=schaerbeek_010,ou=Schaerbeek,ou=Belgium,ou=People,dc=mycompany,dc=co
+ m
+cn: denis leclercq
+mail: denis.leclercq@mycompany.com
+objectclass: inetOrgPerson
+sn: denis
+uid: schaerbeek_010
+userpassword: 123
+
+dn: ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: France
+
+dn: ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Aurillac
+
+dn: uid=aurillac_001,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: isaac pascal
+mail: isaac.pascal@mycompany.com
+objectclass: inetOrgPerson
+sn: isaac
+uid: aurillac_001
+userpassword: 123
+
+dn: uid=aurillac_002,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: louis lagarde
+mail: louis.lagarde@mycompany.com
+objectclass: inetOrgPerson
+sn: louis
+uid: aurillac_002
+userpassword: 123
+
+dn: uid=aurillac_003,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: maryse langlois
+mail: maryse.langlois@mycompany.com
+objectclass: inetOrgPerson
+sn: maryse
+uid: aurillac_003
+userpassword: 123
+
+dn: uid=aurillac_004,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: benoit pages
+mail: benoit.pages@mycompany.com
+objectclass: inetOrgPerson
+sn: benoit
+uid: aurillac_004
+userpassword: 123
+
+dn: uid=aurillac_005,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: marcel perrot
+mail: marcel.perrot@mycompany.com
+objectclass: inetOrgPerson
+sn: marcel
+uid: aurillac_005
+userpassword: 123
+
+dn: uid=aurillac_006,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: lucas rocher
+mail: lucas.rocher@mycompany.com
+objectclass: inetOrgPerson
+sn: lucas
+uid: aurillac_006
+userpassword: 123
+
+dn: uid=aurillac_007,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: stephane richard
+mail: stephane.richard@mycompany.com
+objectclass: inetOrgPerson
+sn: stephane
+uid: aurillac_007
+userpassword: 123
+
+dn: uid=aurillac_008,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: francoise lemaitre
+mail: francoise.lemaitre@mycompany.com
+objectclass: inetOrgPerson
+sn: francoise
+uid: aurillac_008
+userpassword: 123
+
+dn: uid=aurillac_009,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: sabine philippe
+mail: sabine.philippe@mycompany.com
+objectclass: inetOrgPerson
+sn: sabine
+uid: aurillac_009
+userpassword: 123
+
+dn: uid=aurillac_010,ou=Aurillac,ou=France,ou=People,dc=mycompany,dc=com
+cn: margaret muller
+mail: margaret.muller@mycompany.com
+objectclass: inetOrgPerson
+sn: margaret
+uid: aurillac_010
+userpassword: 123
+
+dn: ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Bordeaux
+
+dn: uid=bordeaux_001,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: luc rousset
+mail: luc.rousset@mycompany.com
+objectclass: inetOrgPerson
+sn: luc
+uid: bordeaux_001
+userpassword: 123
+
+dn: uid=bordeaux_002,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: emile turpin
+mail: emile.turpin@mycompany.com
+objectclass: inetOrgPerson
+sn: emile
+uid: bordeaux_002
+userpassword: 123
+
+dn: uid=bordeaux_003,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: alain coste
+mail: alain.coste@mycompany.com
+objectclass: inetOrgPerson
+sn: alain
+uid: bordeaux_003
+userpassword: 123
+
+dn: uid=bordeaux_004,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: etienne guillon
+mail: etienne.guillon@mycompany.com
+objectclass: inetOrgPerson
+sn: etienne
+uid: bordeaux_004
+userpassword: 123
+
+dn: uid=bordeaux_005,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: matthieu riou
+mail: matthieu.riou@mycompany.com
+objectclass: inetOrgPerson
+sn: matthieu
+uid: bordeaux_005
+userpassword: 123
+
+dn: uid=bordeaux_006,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: leon carlier
+mail: leon.carlier@mycompany.com
+objectclass: inetOrgPerson
+sn: leon
+uid: bordeaux_006
+userpassword: 123
+
+dn: uid=bordeaux_007,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: susanne lemaire
+mail: susanne.lemaire@mycompany.com
+objectclass: inetOrgPerson
+sn: susanne
+uid: bordeaux_007
+userpassword: 123
+
+dn: uid=bordeaux_008,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: martin roux
+mail: martin.roux@mycompany.com
+objectclass: inetOrgPerson
+sn: martin
+uid: bordeaux_008
+userpassword: 123
+
+dn: uid=bordeaux_009,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: marine dumont
+mail: marine.dumont@mycompany.com
+objectclass: inetOrgPerson
+sn: marine
+uid: bordeaux_009
+userpassword: 123
+
+dn: uid=bordeaux_010,ou=Bordeaux,ou=France,ou=People,dc=mycompany,dc=com
+cn: adelaide rossi
+mail: adelaide.rossi@mycompany.com
+objectclass: inetOrgPerson
+sn: adelaide
+uid: bordeaux_010
+userpassword: 123
+
+dn: ou=Clermont-Ferrand,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Clermont-Ferrand
+
+dn: uid=clermont-ferrand_001,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: christine baudry
+mail: christine.baudry@mycompany.com
+objectclass: inetOrgPerson
+sn: christine
+uid: clermont-ferrand_001
+userpassword: 123
+
+dn: uid=clermont-ferrand_002,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: marguerite philippe
+mail: marguerite.philippe@mycompany.com
+objectclass: inetOrgPerson
+sn: marguerite
+uid: clermont-ferrand_002
+userpassword: 123
+
+dn: uid=clermont-ferrand_003,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: claude bodin
+mail: claude.bodin@mycompany.com
+objectclass: inetOrgPerson
+sn: claude
+uid: clermont-ferrand_003
+userpassword: 123
+
+dn: uid=clermont-ferrand_004,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: monique moreno
+mail: monique.moreno@mycompany.com
+objectclass: inetOrgPerson
+sn: monique
+uid: clermont-ferrand_004
+userpassword: 123
+
+dn: uid=clermont-ferrand_005,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: jeanne ramos
+mail: jeanne.ramos@mycompany.com
+objectclass: inetOrgPerson
+sn: jeanne
+uid: clermont-ferrand_005
+userpassword: 123
+
+dn: uid=clermont-ferrand_006,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: michelle delannoy
+mail: michelle.delannoy@mycompany.com
+objectclass: inetOrgPerson
+sn: michelle
+uid: clermont-ferrand_006
+userpassword: 123
+
+dn: uid=clermont-ferrand_007,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: emmanuelle jacques
+mail: emmanuelle.jacques@mycompany.com
+objectclass: inetOrgPerson
+sn: emmanuelle
+uid: clermont-ferrand_007
+userpassword: 123
+
+dn: uid=clermont-ferrand_008,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: eugene coste
+mail: eugene.coste@mycompany.com
+objectclass: inetOrgPerson
+sn: eugene
+uid: clermont-ferrand_008
+userpassword: 123
+
+dn: uid=clermont-ferrand_009,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: tristan leconte
+mail: tristan.leconte@mycompany.com
+objectclass: inetOrgPerson
+sn: tristan
+uid: clermont-ferrand_009
+userpassword: 123
+
+dn: uid=clermont-ferrand_010,ou=Clermont-Ferrand,ou=France,ou=People,dc=myco
+ mpany,dc=com
+cn: paulette charpentier
+mail: paulette.charpentier@mycompany.com
+objectclass: inetOrgPerson
+sn: paulette
+uid: clermont-ferrand_010
+userpassword: 123
+
+dn: ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Lyon
+
+dn: uid=lyon_001,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: zoe muller
+mail: zoe.muller@mycompany.com
+objectclass: inetOrgPerson
+sn: zoe
+uid: lyon_001
+userpassword: 123
+
+dn: uid=lyon_002,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: marie levy
+mail: marie.levy@mycompany.com
+objectclass: inetOrgPerson
+sn: marie
+uid: lyon_002
+userpassword: 123
+
+dn: uid=lyon_003,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: francoise gomes
+mail: francoise.gomes@mycompany.com
+objectclass: inetOrgPerson
+sn: francoise
+uid: lyon_003
+userpassword: 123
+
+dn: uid=lyon_004,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: vincent laporte
+mail: vincent.laporte@mycompany.com
+objectclass: inetOrgPerson
+sn: vincent
+uid: lyon_004
+userpassword: 123
+
+dn: uid=lyon_005,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: jacques gomes
+mail: jacques.gomes@mycompany.com
+objectclass: inetOrgPerson
+sn: jacques
+uid: lyon_005
+userpassword: 123
+
+dn: uid=lyon_006,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: eugene lemaire
+mail: eugene.lemaire@mycompany.com
+objectclass: inetOrgPerson
+sn: eugene
+uid: lyon_006
+userpassword: 123
+
+dn: uid=lyon_007,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: alexandria martinez
+mail: alexandria.martinez@mycompany.com
+objectclass: inetOrgPerson
+sn: alexandria
+uid: lyon_007
+userpassword: 123
+
+dn: uid=lyon_008,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: celine pruvost
+mail: celine.pruvost@mycompany.com
+objectclass: inetOrgPerson
+sn: celine
+uid: lyon_008
+userpassword: 123
+
+dn: uid=lyon_009,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: corinne guilbert
+mail: corinne.guilbert@mycompany.com
+objectclass: inetOrgPerson
+sn: corinne
+uid: lyon_009
+userpassword: 123
+
+dn: uid=lyon_010,ou=Lyon,ou=France,ou=People,dc=mycompany,dc=com
+cn: hugues lamy
+mail: hugues.lamy@mycompany.com
+objectclass: inetOrgPerson
+sn: hugues
+uid: lyon_010
+userpassword: 123
+
+dn: ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Marseille
+
+dn: uid=marseille_001,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: julien laine
+mail: julien.laine@mycompany.com
+objectclass: inetOrgPerson
+sn: julien
+uid: marseille_001
+userpassword: 123
+
+dn: uid=marseille_002,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: louis coste
+mail: louis.coste@mycompany.com
+objectclass: inetOrgPerson
+sn: louis
+uid: marseille_002
+userpassword: 123
+
+dn: uid=marseille_003,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: michelle allard
+mail: michelle.allard@mycompany.com
+objectclass: inetOrgPerson
+sn: michelle
+uid: marseille_003
+userpassword: 123
+
+dn: uid=marseille_004,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: caroline cohen
+mail: caroline.cohen@mycompany.com
+objectclass: inetOrgPerson
+sn: caroline
+uid: marseille_004
+userpassword: 123
+
+dn: uid=marseille_005,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: louis perrin
+mail: louis.perrin@mycompany.com
+objectclass: inetOrgPerson
+sn: louis
+uid: marseille_005
+userpassword: 123
+
+dn: uid=marseille_006,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: christophe samson
+mail: christophe.samson@mycompany.com
+objectclass: inetOrgPerson
+sn: christophe
+uid: marseille_006
+userpassword: 123
+
+dn: uid=marseille_007,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: emile bertin
+mail: emile.bertin@mycompany.com
+objectclass: inetOrgPerson
+sn: emile
+uid: marseille_007
+userpassword: 123
+
+dn: uid=marseille_008,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: genevieve charles
+mail: genevieve.charles@mycompany.com
+objectclass: inetOrgPerson
+sn: genevieve
+uid: marseille_008
+userpassword: 123
+
+dn: uid=marseille_009,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: anais joubert
+mail: anais.joubert@mycompany.com
+objectclass: inetOrgPerson
+sn: anais
+uid: marseille_009
+userpassword: 123
+
+dn: uid=marseille_010,ou=Marseille,ou=France,ou=People,dc=mycompany,dc=com
+cn: anastasie marty
+mail: anastasie.marty@mycompany.com
+objectclass: inetOrgPerson
+sn: anastasie
+uid: marseille_010
+userpassword: 123
+
+dn: ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Montpellier
+
+dn: uid=montpellier_001,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: gabrielle diaz
+mail: gabrielle.diaz@mycompany.com
+objectclass: inetOrgPerson
+sn: gabrielle
+uid: montpellier_001
+userpassword: 123
+
+dn: uid=montpellier_002,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: maurice caron
+mail: maurice.caron@mycompany.com
+objectclass: inetOrgPerson
+sn: maurice
+uid: montpellier_002
+userpassword: 123
+
+dn: uid=montpellier_003,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: antoine aubry
+mail: antoine.aubry@mycompany.com
+objectclass: inetOrgPerson
+sn: antoine
+uid: montpellier_003
+userpassword: 123
+
+dn: uid=montpellier_004,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: leon lecomte
+mail: leon.lecomte@mycompany.com
+objectclass: inetOrgPerson
+sn: leon
+uid: montpellier_004
+userpassword: 123
+
+dn: uid=montpellier_005,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: alice samson
+mail: alice.samson@mycompany.com
+objectclass: inetOrgPerson
+sn: alice
+uid: montpellier_005
+userpassword: 123
+
+dn: uid=montpellier_006,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: julie texier
+mail: julie.texier@mycompany.com
+objectclass: inetOrgPerson
+sn: julie
+uid: montpellier_006
+userpassword: 123
+
+dn: uid=montpellier_007,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: michelle valette
+mail: michelle.valette@mycompany.com
+objectclass: inetOrgPerson
+sn: michelle
+uid: montpellier_007
+userpassword: 123
+
+dn: uid=montpellier_008,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: jean garcia
+mail: jean.garcia@mycompany.com
+objectclass: inetOrgPerson
+sn: jean
+uid: montpellier_008
+userpassword: 123
+
+dn: uid=montpellier_009,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: agnes boucher
+mail: agnes.boucher@mycompany.com
+objectclass: inetOrgPerson
+sn: agnes
+uid: montpellier_009
+userpassword: 123
+
+dn: uid=montpellier_010,ou=Montpellier,ou=France,ou=People,dc=mycompany,dc=c
+ om
+cn: julien antoine
+mail: julien.antoine@mycompany.com
+objectclass: inetOrgPerson
+sn: julien
+uid: montpellier_010
+userpassword: 123
+
+dn: ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Nantes
+
+dn: uid=nantes_001,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: isaac auger
+mail: isaac.auger@mycompany.com
+objectclass: inetOrgPerson
+sn: isaac
+uid: nantes_001
+userpassword: 123
+
+dn: uid=nantes_002,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: alphonse marques
+mail: alphonse.marques@mycompany.com
+objectclass: inetOrgPerson
+sn: alphonse
+uid: nantes_002
+userpassword: 123
+
+dn: uid=nantes_003,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: thibault pasquier
+mail: thibault.pasquier@mycompany.com
+objectclass: inetOrgPerson
+sn: thibault
+uid: nantes_003
+userpassword: 123
+
+dn: uid=nantes_004,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: eleonore rousseau
+mail: eleonore.rousseau@mycompany.com
+objectclass: inetOrgPerson
+sn: eleonore
+uid: nantes_004
+userpassword: 123
+
+dn: uid=nantes_005,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: genevieve coulon
+mail: genevieve.coulon@mycompany.com
+objectclass: inetOrgPerson
+sn: genevieve
+uid: nantes_005
+userpassword: 123
+
+dn: uid=nantes_006,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: jacques nicolas
+mail: jacques.nicolas@mycompany.com
+objectclass: inetOrgPerson
+sn: jacques
+uid: nantes_006
+userpassword: 123
+
+dn: uid=nantes_007,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: rene hubert
+mail: rene.hubert@mycompany.com
+objectclass: inetOrgPerson
+sn: rene
+uid: nantes_007
+userpassword: 123
+
+dn: uid=nantes_008,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: paulette sanchez
+mail: paulette.sanchez@mycompany.com
+objectclass: inetOrgPerson
+sn: paulette
+uid: nantes_008
+userpassword: 123
+
+dn: uid=nantes_009,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: gilbert dubois
+mail: gilbert.dubois@mycompany.com
+objectclass: inetOrgPerson
+sn: gilbert
+uid: nantes_009
+userpassword: 123
+
+dn: uid=nantes_010,ou=Nantes,ou=France,ou=People,dc=mycompany,dc=com
+cn: martin huet
+mail: martin.huet@mycompany.com
+objectclass: inetOrgPerson
+sn: martin
+uid: nantes_010
+userpassword: 123
+
+dn: ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Nice
+
+dn: uid=nice_001,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: pierre levy
+mail: pierre.levy@mycompany.com
+objectclass: inetOrgPerson
+sn: pierre
+uid: nice_001
+userpassword: 123
+
+dn: uid=nice_002,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: arnaude bernard
+mail: arnaude.bernard@mycompany.com
+objectclass: inetOrgPerson
+sn: arnaude
+uid: nice_002
+userpassword: 123
+
+dn: uid=nice_003,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: charlotte durand
+mail: charlotte.durand@mycompany.com
+objectclass: inetOrgPerson
+sn: charlotte
+uid: nice_003
+userpassword: 123
+
+dn: uid=nice_004,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: simone lemaitre
+mail: simone.lemaitre@mycompany.com
+objectclass: inetOrgPerson
+sn: simone
+uid: nice_004
+userpassword: 123
+
+dn: uid=nice_005,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: luce diallo
+mail: luce.diallo@mycompany.com
+objectclass: inetOrgPerson
+sn: luce
+uid: nice_005
+userpassword: 123
+
+dn: uid=nice_006,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: christophe aubry
+mail: christophe.aubry@mycompany.com
+objectclass: inetOrgPerson
+sn: christophe
+uid: nice_006
+userpassword: 123
+
+dn: uid=nice_007,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: leon gimenez
+mail: leon.gimenez@mycompany.com
+objectclass: inetOrgPerson
+sn: leon
+uid: nice_007
+userpassword: 123
+
+dn: uid=nice_008,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: genevieve gilles
+mail: genevieve.gilles@mycompany.com
+objectclass: inetOrgPerson
+sn: genevieve
+uid: nice_008
+userpassword: 123
+
+dn: uid=nice_009,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: alphonse martins
+mail: alphonse.martins@mycompany.com
+objectclass: inetOrgPerson
+sn: alphonse
+uid: nice_009
+userpassword: 123
+
+dn: uid=nice_010,ou=Nice,ou=France,ou=People,dc=mycompany,dc=com
+cn: matthieu vallet
+mail: matthieu.vallet@mycompany.com
+objectclass: inetOrgPerson
+sn: matthieu
+uid: nice_010
+userpassword: 123
+
+dn: ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Paris
+
+dn: uid=paris_001,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: alix jourdan
+mail: alix.jourdan@mycompany.com
+objectclass: inetOrgPerson
+sn: alix
+uid: paris_001
+userpassword: 123
+
+dn: uid=paris_002,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: laurent chauveau
+mail: laurent.chauveau@mycompany.com
+objectclass: inetOrgPerson
+sn: laurent
+uid: paris_002
+userpassword: 123
+
+dn: uid=paris_003,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: alix le-gall
+mail: alix.le-gall@mycompany.com
+objectclass: inetOrgPerson
+sn: alix
+uid: paris_003
+userpassword: 123
+
+dn: uid=paris_004,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: yves gregoire
+mail: yves.gregoire@mycompany.com
+objectclass: inetOrgPerson
+sn: yves
+uid: paris_004
+userpassword: 123
+
+dn: uid=paris_005,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: marthe michaud
+mail: marthe.michaud@mycompany.com
+objectclass: inetOrgPerson
+sn: marthe
+uid: paris_005
+userpassword: 123
+
+dn: uid=paris_006,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: zoe besson
+mail: zoe.besson@mycompany.com
+objectclass: inetOrgPerson
+sn: zoe
+uid: paris_006
+userpassword: 123
+
+dn: uid=paris_007,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: leon bonnin
+mail: leon.bonnin@mycompany.com
+objectclass: inetOrgPerson
+sn: leon
+uid: paris_007
+userpassword: 123
+
+dn: uid=paris_008,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: colette lefevre
+mail: colette.lefevre@mycompany.com
+objectclass: inetOrgPerson
+sn: colette
+uid: paris_008
+userpassword: 123
+
+dn: uid=paris_009,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: josette picard
+mail: josette.picard@mycompany.com
+objectclass: inetOrgPerson
+sn: josette
+uid: paris_009
+userpassword: 123
+
+dn: uid=paris_010,ou=Paris,ou=France,ou=People,dc=mycompany,dc=com
+cn: henri costa
+mail: henri.costa@mycompany.com
+objectclass: inetOrgPerson
+sn: henri
+uid: paris_010
+userpassword: 123
+
+dn: ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Strasbourg
+
+dn: uid=strasbourg_001,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: sebastien petitjean
+mail: sebastien.petitjean@mycompany.com
+objectclass: inetOrgPerson
+sn: sebastien
+uid: strasbourg_001
+userpassword: 123
+
+dn: uid=strasbourg_002,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: arnaude schmitt
+mail: arnaude.schmitt@mycompany.com
+objectclass: inetOrgPerson
+sn: arnaude
+uid: strasbourg_002
+userpassword: 123
+
+dn: uid=strasbourg_003,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: remy pereira
+mail: remy.pereira@mycompany.com
+objectclass: inetOrgPerson
+sn: remy
+uid: strasbourg_003
+userpassword: 123
+
+dn: uid=strasbourg_004,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: henri parent
+mail: henri.parent@mycompany.com
+objectclass: inetOrgPerson
+sn: henri
+uid: strasbourg_004
+userpassword: 123
+
+dn: uid=strasbourg_005,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: jules pascal
+mail: jules.pascal@mycompany.com
+objectclass: inetOrgPerson
+sn: jules
+uid: strasbourg_005
+userpassword: 123
+
+dn: uid=strasbourg_006,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: marcel maurice
+mail: marcel.maurice@mycompany.com
+objectclass: inetOrgPerson
+sn: marcel
+uid: strasbourg_006
+userpassword: 123
+
+dn: uid=strasbourg_007,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: frederique lambert
+mail: frederique.lambert@mycompany.com
+objectclass: inetOrgPerson
+sn: frederique
+uid: strasbourg_007
+userpassword: 123
+
+dn: uid=strasbourg_008,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: henri boulanger
+mail: henri.boulanger@mycompany.com
+objectclass: inetOrgPerson
+sn: henri
+uid: strasbourg_008
+userpassword: 123
+
+dn: uid=strasbourg_009,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: eric faure
+mail: eric.faure@mycompany.com
+objectclass: inetOrgPerson
+sn: eric
+uid: strasbourg_009
+userpassword: 123
+
+dn: uid=strasbourg_010,ou=Strasbourg,ou=France,ou=People,dc=mycompany,dc=com
+cn: jacqueline rolland
+mail: jacqueline.rolland@mycompany.com
+objectclass: inetOrgPerson
+sn: jacqueline
+uid: strasbourg_010
+userpassword: 123
+
+dn: ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Toulouse
+
+dn: uid=toulouse_001,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: patricia aubert
+mail: patricia.aubert@mycompany.com
+objectclass: inetOrgPerson
+sn: patricia
+uid: toulouse_001
+userpassword: 123
+
+dn: uid=toulouse_002,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: robert blin
+mail: robert.blin@mycompany.com
+objectclass: inetOrgPerson
+sn: robert
+uid: toulouse_002
+userpassword: 123
+
+dn: uid=toulouse_003,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: gregoire delannoy
+mail: gregoire.delannoy@mycompany.com
+objectclass: inetOrgPerson
+sn: gregoire
+uid: toulouse_003
+userpassword: 123
+
+dn: uid=toulouse_004,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: tristan hebert
+mail: tristan.hebert@mycompany.com
+objectclass: inetOrgPerson
+sn: tristan
+uid: toulouse_004
+userpassword: 123
+
+dn: uid=toulouse_005,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: guy chartier
+mail: guy.chartier@mycompany.com
+objectclass: inetOrgPerson
+sn: guy
+uid: toulouse_005
+userpassword: 123
+
+dn: uid=toulouse_006,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: bertrand wagner
+mail: bertrand.wagner@mycompany.com
+objectclass: inetOrgPerson
+sn: bertrand
+uid: toulouse_006
+userpassword: 123
+
+dn: uid=toulouse_007,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: patricia charles
+mail: patricia.charles@mycompany.com
+objectclass: inetOrgPerson
+sn: patricia
+uid: toulouse_007
+userpassword: 123
+
+dn: uid=toulouse_008,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: martin guillot
+mail: martin.guillot@mycompany.com
+objectclass: inetOrgPerson
+sn: martin
+uid: toulouse_008
+userpassword: 123
+
+dn: uid=toulouse_009,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: adrienne hoareau
+mail: adrienne.hoareau@mycompany.com
+objectclass: inetOrgPerson
+sn: adrienne
+uid: toulouse_009
+userpassword: 123
+
+dn: uid=toulouse_010,ou=Toulouse,ou=France,ou=People,dc=mycompany,dc=com
+cn: chantal pasquier
+mail: chantal.pasquier@mycompany.com
+objectclass: inetOrgPerson
+sn: chantal
+uid: toulouse_010
+userpassword: 123
+
+dn: ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: United States
+
+dn: ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Chicago
+
+dn: uid=chicago_001,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: margot duval
+mail: margot.duval@mycompany.com
+objectclass: inetOrgPerson
+sn: margot
+uid: chicago_001
+userpassword: 123
+
+dn: uid=chicago_002,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: pierre gosselin
+mail: pierre.gosselin@mycompany.com
+objectclass: inetOrgPerson
+sn: pierre
+uid: chicago_002
+userpassword: 123
+
+dn: uid=chicago_003,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: michel morin
+mail: michel.morin@mycompany.com
+objectclass: inetOrgPerson
+sn: michel
+uid: chicago_003
+userpassword: 123
+
+dn: uid=chicago_004,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: lucy roussel
+mail: lucy.roussel@mycompany.com
+objectclass: inetOrgPerson
+sn: lucy
+uid: chicago_004
+userpassword: 123
+
+dn: uid=chicago_005,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: paul morel
+mail: paul.morel@mycompany.com
+objectclass: inetOrgPerson
+sn: paul
+uid: chicago_005
+userpassword: 123
+
+dn: uid=chicago_006,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: eric turpin
+mail: eric.turpin@mycompany.com
+objectclass: inetOrgPerson
+sn: eric
+uid: chicago_006
+userpassword: 123
+
+dn: uid=chicago_007,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: aimee chevallier
+mail: aimee.chevallier@mycompany.com
+objectclass: inetOrgPerson
+sn: aimee
+uid: chicago_007
+userpassword: 123
+
+dn: uid=chicago_008,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: francoise guibert
+mail: francoise.guibert@mycompany.com
+objectclass: inetOrgPerson
+sn: francoise
+uid: chicago_008
+userpassword: 123
+
+dn: uid=chicago_009,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: marthe denis
+mail: marthe.denis@mycompany.com
+objectclass: inetOrgPerson
+sn: marthe
+uid: chicago_009
+userpassword: 123
+
+dn: uid=chicago_010,ou=Chicago,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: margaret valette
+mail: margaret.valette@mycompany.com
+objectclass: inetOrgPerson
+sn: margaret
+uid: chicago_010
+userpassword: 123
+
+dn: ou=Houston,ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Houston
+
+dn: uid=houston_001,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: charlotte lemaire
+mail: charlotte.lemaire@mycompany.com
+objectclass: inetOrgPerson
+sn: charlotte
+uid: houston_001
+userpassword: 123
+
+dn: uid=houston_002,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: eric legros
+mail: eric.legros@mycompany.com
+objectclass: inetOrgPerson
+sn: eric
+uid: houston_002
+userpassword: 123
+
+dn: uid=houston_003,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: francois jacob
+mail: francois.jacob@mycompany.com
+objectclass: inetOrgPerson
+sn: francois
+uid: houston_003
+userpassword: 123
+
+dn: uid=houston_004,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: laure jacquot
+mail: laure.jacquot@mycompany.com
+objectclass: inetOrgPerson
+sn: laure
+uid: houston_004
+userpassword: 123
+
+dn: uid=houston_005,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: emmanuel techer
+mail: emmanuel.techer@mycompany.com
+objectclass: inetOrgPerson
+sn: emmanuel
+uid: houston_005
+userpassword: 123
+
+dn: uid=houston_006,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: adelaide roger
+mail: adelaide.roger@mycompany.com
+objectclass: inetOrgPerson
+sn: adelaide
+uid: houston_006
+userpassword: 123
+
+dn: uid=houston_007,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: dorothee charpentier
+mail: dorothee.charpentier@mycompany.com
+objectclass: inetOrgPerson
+sn: dorothee
+uid: houston_007
+userpassword: 123
+
+dn: uid=houston_008,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: martin techer
+mail: martin.techer@mycompany.com
+objectclass: inetOrgPerson
+sn: martin
+uid: houston_008
+userpassword: 123
+
+dn: uid=houston_009,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: camille meyer
+mail: camille.meyer@mycompany.com
+objectclass: inetOrgPerson
+sn: camille
+uid: houston_009
+userpassword: 123
+
+dn: uid=houston_010,ou=Houston,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: sabine martin
+mail: sabine.martin@mycompany.com
+objectclass: inetOrgPerson
+sn: sabine
+uid: houston_010
+userpassword: 123
+
+dn: ou=Los Angeles,ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Los Angeles
+
+dn: uid=los-angeles_001,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: julie diaz
+mail: julie.diaz@mycompany.com
+objectclass: inetOrgPerson
+sn: julie
+uid: los-angeles_001
+userpassword: 123
+
+dn: uid=los-angeles_002,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: dominique vincent
+mail: dominique.vincent@mycompany.com
+objectclass: inetOrgPerson
+sn: dominique
+uid: los-angeles_002
+userpassword: 123
+
+dn: uid=los-angeles_003,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: marcelle raynaud
+mail: marcelle.raynaud@mycompany.com
+objectclass: inetOrgPerson
+sn: marcelle
+uid: los-angeles_003
+userpassword: 123
+
+dn: uid=los-angeles_004,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: georges vasseur
+mail: georges.vasseur@mycompany.com
+objectclass: inetOrgPerson
+sn: georges
+uid: los-angeles_004
+userpassword: 123
+
+dn: uid=los-angeles_005,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: nathalie pelletier
+mail: nathalie.pelletier@mycompany.com
+objectclass: inetOrgPerson
+sn: nathalie
+uid: los-angeles_005
+userpassword: 123
+
+dn: uid=los-angeles_006,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: honore grondin
+mail: honore.grondin@mycompany.com
+objectclass: inetOrgPerson
+sn: honore
+uid: los-angeles_006
+userpassword: 123
+
+dn: uid=los-angeles_007,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: guillaume da-costa
+mail: guillaume.da-costa@mycompany.com
+objectclass: inetOrgPerson
+sn: guillaume
+uid: los-angeles_007
+userpassword: 123
+
+dn: uid=los-angeles_008,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: xavier lagarde
+mail: xavier.lagarde@mycompany.com
+objectclass: inetOrgPerson
+sn: xavier
+uid: los-angeles_008
+userpassword: 123
+
+dn: uid=los-angeles_009,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: camille roche
+mail: camille.roche@mycompany.com
+objectclass: inetOrgPerson
+sn: camille
+uid: los-angeles_009
+userpassword: 123
+
+dn: uid=los-angeles_010,ou=Los Angeles,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: corinne poulain
+mail: corinne.poulain@mycompany.com
+objectclass: inetOrgPerson
+sn: corinne
+uid: los-angeles_010
+userpassword: 123
+
+dn: ou=New York,ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: New York
+
+dn: uid=new-york_001,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: joseph chauvet
+mail: joseph.chauvet@mycompany.com
+objectclass: inetOrgPerson
+sn: joseph
+uid: new-york_001
+userpassword: 123
+
+dn: uid=new-york_002,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: isabelle leclerc
+mail: isabelle.leclerc@mycompany.com
+objectclass: inetOrgPerson
+sn: isabelle
+uid: new-york_002
+userpassword: 123
+
+dn: uid=new-york_003,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: david gautier
+mail: david.gautier@mycompany.com
+objectclass: inetOrgPerson
+sn: david
+uid: new-york_003
+userpassword: 123
+
+dn: uid=new-york_004,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: bernard arnaud
+mail: bernard.arnaud@mycompany.com
+objectclass: inetOrgPerson
+sn: bernard
+uid: new-york_004
+userpassword: 123
+
+dn: uid=new-york_005,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: sebastien aubert
+mail: sebastien.aubert@mycompany.com
+objectclass: inetOrgPerson
+sn: sebastien
+uid: new-york_005
+userpassword: 123
+
+dn: uid=new-york_006,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: mathilde moulin
+mail: mathilde.moulin@mycompany.com
+objectclass: inetOrgPerson
+sn: mathilde
+uid: new-york_006
+userpassword: 123
+
+dn: uid=new-york_007,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: jean fouquet
+mail: jean.fouquet@mycompany.com
+objectclass: inetOrgPerson
+sn: jean
+uid: new-york_007
+userpassword: 123
+
+dn: uid=new-york_008,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: victoire riviere
+mail: victoire.riviere@mycompany.com
+objectclass: inetOrgPerson
+sn: victoire
+uid: new-york_008
+userpassword: 123
+
+dn: uid=new-york_009,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: ines lebon
+mail: ines.lebon@mycompany.com
+objectclass: inetOrgPerson
+sn: ines
+uid: new-york_009
+userpassword: 123
+
+dn: uid=new-york_010,ou=New York,ou=United States,ou=People,dc=mycompany,dc=
+ com
+cn: elisabeth maillet
+mail: elisabeth.maillet@mycompany.com
+objectclass: inetOrgPerson
+sn: elisabeth
+uid: new-york_010
+userpassword: 123
+
+dn: ou=Philadelphia,ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Philadelphia
+
+dn: uid=philadelphia_001,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: claude buisson
+mail: claude.buisson@mycompany.com
+objectclass: inetOrgPerson
+sn: claude
+uid: philadelphia_001
+userpassword: 123
+
+dn: uid=philadelphia_002,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: emmanuelle ferrand
+mail: emmanuelle.ferrand@mycompany.com
+objectclass: inetOrgPerson
+sn: emmanuelle
+uid: philadelphia_002
+userpassword: 123
+
+dn: uid=philadelphia_003,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: helene masse
+mail: helene.masse@mycompany.com
+objectclass: inetOrgPerson
+sn: helene
+uid: philadelphia_003
+userpassword: 123
+
+dn: uid=philadelphia_004,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: celine mathieu
+mail: celine.mathieu@mycompany.com
+objectclass: inetOrgPerson
+sn: celine
+uid: philadelphia_004
+userpassword: 123
+
+dn: uid=philadelphia_005,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: hortense huet
+mail: hortense.huet@mycompany.com
+objectclass: inetOrgPerson
+sn: hortense
+uid: philadelphia_005
+userpassword: 123
+
+dn: uid=philadelphia_006,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: laetitia bonnet
+mail: laetitia.bonnet@mycompany.com
+objectclass: inetOrgPerson
+sn: laetitia
+uid: philadelphia_006
+userpassword: 123
+
+dn: uid=philadelphia_007,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: alex jacques
+mail: alex.jacques@mycompany.com
+objectclass: inetOrgPerson
+sn: alex
+uid: philadelphia_007
+userpassword: 123
+
+dn: uid=philadelphia_008,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: maurice rodriguez
+mail: maurice.rodriguez@mycompany.com
+objectclass: inetOrgPerson
+sn: maurice
+uid: philadelphia_008
+userpassword: 123
+
+dn: uid=philadelphia_009,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: suzanne foucher
+mail: suzanne.foucher@mycompany.com
+objectclass: inetOrgPerson
+sn: suzanne
+uid: philadelphia_009
+userpassword: 123
+
+dn: uid=philadelphia_010,ou=Philadelphia,ou=United States,ou=People,dc=mycom
+ pany,dc=com
+cn: julien le-roux
+mail: julien.le-roux@mycompany.com
+objectclass: inetOrgPerson
+sn: julien
+uid: philadelphia_010
+userpassword: 123
+
+dn: ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: Phoenix
+
+dn: uid=phoenix_001,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: etienne fouquet
+mail: etienne.fouquet@mycompany.com
+objectclass: inetOrgPerson
+sn: etienne
+uid: phoenix_001
+userpassword: 123
+
+dn: uid=phoenix_002,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: martin fischer
+mail: martin.fischer@mycompany.com
+objectclass: inetOrgPerson
+sn: martin
+uid: phoenix_002
+userpassword: 123
+
+dn: uid=phoenix_003,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: eugene boulay
+mail: eugene.boulay@mycompany.com
+objectclass: inetOrgPerson
+sn: eugene
+uid: phoenix_003
+userpassword: 123
+
+dn: uid=phoenix_004,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: jacques dupuy
+mail: jacques.dupuy@mycompany.com
+objectclass: inetOrgPerson
+sn: jacques
+uid: phoenix_004
+userpassword: 123
+
+dn: uid=phoenix_005,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: alexandre laine
+mail: alexandre.laine@mycompany.com
+objectclass: inetOrgPerson
+sn: alexandre
+uid: phoenix_005
+userpassword: 123
+
+dn: uid=phoenix_006,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: emmanuel le-roux
+mail: emmanuel.le-roux@mycompany.com
+objectclass: inetOrgPerson
+sn: emmanuel
+uid: phoenix_006
+userpassword: 123
+
+dn: uid=phoenix_007,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: thibaut moreno
+mail: thibaut.moreno@mycompany.com
+objectclass: inetOrgPerson
+sn: thibaut
+uid: phoenix_007
+userpassword: 123
+
+dn: uid=phoenix_008,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: jean bazin
+mail: jean.bazin@mycompany.com
+objectclass: inetOrgPerson
+sn: jean
+uid: phoenix_008
+userpassword: 123
+
+dn: uid=phoenix_009,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: arthur giraud
+mail: arthur.giraud@mycompany.com
+objectclass: inetOrgPerson
+sn: arthur
+uid: phoenix_009
+userpassword: 123
+
+dn: uid=phoenix_010,ou=Phoenix,ou=United States,ou=People,dc=mycompany,dc=co
+ m
+cn: odette faure
+mail: odette.faure@mycompany.com
+objectclass: inetOrgPerson
+sn: odette
+uid: phoenix_010
+userpassword: 123
+
+dn: ou=San Antonio,ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: San Antonio
+
+dn: uid=san-antonio_001,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: yves peron
+mail: yves.peron@mycompany.com
+objectclass: inetOrgPerson
+sn: yves
+uid: san-antonio_001
+userpassword: 123
+
+dn: uid=san-antonio_002,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: therese bonneau
+mail: therese.bonneau@mycompany.com
+objectclass: inetOrgPerson
+sn: therese
+uid: san-antonio_002
+userpassword: 123
+
+dn: uid=san-antonio_003,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: antoinette garnier
+mail: antoinette.garnier@mycompany.com
+objectclass: inetOrgPerson
+sn: antoinette
+uid: san-antonio_003
+userpassword: 123
+
+dn: uid=san-antonio_004,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: thibaut pottier
+mail: thibaut.pottier@mycompany.com
+objectclass: inetOrgPerson
+sn: thibaut
+uid: san-antonio_004
+userpassword: 123
+
+dn: uid=san-antonio_005,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: yves coste
+mail: yves.coste@mycompany.com
+objectclass: inetOrgPerson
+sn: yves
+uid: san-antonio_005
+userpassword: 123
+
+dn: uid=san-antonio_006,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: dorothee gautier
+mail: dorothee.gautier@mycompany.com
+objectclass: inetOrgPerson
+sn: dorothee
+uid: san-antonio_006
+userpassword: 123
+
+dn: uid=san-antonio_007,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: gabrielle marques
+mail: gabrielle.marques@mycompany.com
+objectclass: inetOrgPerson
+sn: gabrielle
+uid: san-antonio_007
+userpassword: 123
+
+dn: uid=san-antonio_008,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: leon bonneau
+mail: leon.bonneau@mycompany.com
+objectclass: inetOrgPerson
+sn: leon
+uid: san-antonio_008
+userpassword: 123
+
+dn: uid=san-antonio_009,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: audrey barbe
+mail: audrey.barbe@mycompany.com
+objectclass: inetOrgPerson
+sn: audrey
+uid: san-antonio_009
+userpassword: 123
+
+dn: uid=san-antonio_010,ou=San Antonio,ou=United States,ou=People,dc=mycompa
+ ny,dc=com
+cn: alphonse moulin
+mail: alphonse.moulin@mycompany.com
+objectclass: inetOrgPerson
+sn: alphonse
+uid: san-antonio_010
+userpassword: 123
+
+dn: ou=San Diego,ou=United States,ou=People,dc=mycompany,dc=com
+objectclass: organizationalUnit
+ou: People
+ou: San Diego
+
+dn: uid=san-diego_001,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: tristan dumas
+mail: tristan.dumas@mycompany.com
+objectclass: inetOrgPerson
+sn: tristan
+uid: san-diego_001
+userpassword: 123
+
+dn: uid=san-diego_002,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: marc blanchet
+mail: marc.blanchet@mycompany.com
+objectclass: inetOrgPerson
+sn: marc
+uid: san-diego_002
+userpassword: 123
+
+dn: uid=san-diego_003,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: frederic guerin
+mail: frederic.guerin@mycompany.com
+objectclass: inetOrgPerson
+sn: frederic
+uid: san-diego_003
+userpassword: 123
+
+dn: uid=san-diego_004,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: helene normand
+mail: helene.normand@mycompany.com
+objectclass: inetOrgPerson
+sn: helene
+uid: san-diego_004
+userpassword: 123
+
+dn: uid=san-diego_005,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: timothee petitjean
+mail: timothee.petitjean@mycompany.com
+objectclass: inetOrgPerson
+sn: timothee
+uid: san-diego_005
+userpassword: 123
+
+dn: uid=san-diego_006,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: ines lelievre
+mail: ines.lelievre@mycompany.com
+objectclass: inetOrgPerson
+sn: ines
+uid: san-diego_006
+userpassword: 123
+
+dn: uid=san-diego_007,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: andree meunier
+mail: andree.meunier@mycompany.com
+objectclass: inetOrgPerson
+sn: andree
+uid: san-diego_007
+userpassword: 123
+
+dn: uid=san-diego_008,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: auguste weber
+mail: auguste.weber@mycompany.com
+objectclass: inetOrgPerson
+sn: auguste
+uid: san-diego_008
+userpassword: 123
+
+dn: uid=san-diego_009,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: nicole evrard
+mail: nicole.evrard@mycompany.com
+objectclass: inetOrgPerson
+sn: nicole
+uid: san-diego_009
+userpassword: 123
+
+dn: uid=san-diego_010,ou=San Diego,ou=United States,ou=People,dc=mycompany,d
+ c=com
+cn: pierre francois
+mail: pierre.francois@mycompany.com
+objectclass: inetOrgPerson
+sn: pierre
+uid: san-diego_010
+userpassword: 123
+
